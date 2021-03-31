@@ -14,7 +14,7 @@ idna==2.9
 itsdangerous==1.1.0
 jdcal==1.4.1
 Jinja2==2.11.1
-lxml==4.5.0
+lxml==4.6.3
 MarkupSafe==1.1.1
 multidict==4.7.5
 openpyxl==3.0.3
